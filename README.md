@@ -1,49 +1,75 @@
-## Hi there 👋
-
-<!--
-**Ayush9852/Ayush9852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">## Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">Full-Stack Developer | Crafting Scalable Web Apps with Java, Spring Boot & React | Passionate About Clean Architecture & Performance</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush9852&label=Profile%20views&color=0e75b6&style=flat" alt="ayush9852" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush9852" alt="ayush9852" /></a> </p>
-
-- 🌱 I’m currently on a journey to learn ****Full-Stack Development** with a focus on performance, scalability & clean architecture**
-
-- 💬 Ask me about ****Java**,**Spring Boot**, **React**,and anything **Full-Stack** 💻**
-
-- 📫 How to reach me **📧 k.ayush9835@gmail.com**
-
-- 📄 Know about my experiences [https://ayush9852.github.io/Resume/resume.pdf](https://ayush9852.github.io/Resume/resume.pdf)
-
-- ⚡ Fun fact **⚡ Fun fact My cat is my unofficial debugging assistant 😼**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayushk_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushk_official" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush-kumar-790b621ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-790b621ab" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/k_ayush9835" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="k_ayush9835" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ayush9852/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ayush9852/" height="30" width="40" /></a>
+<!--### Hi there 👋 Ayush Kumar here!-->
+<p align="center">
+	<img src="https://i.ibb.co/pR6MWXX/github-banner-animated-v2.jpg" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush9852&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush9852&show_icons=true&locale=en&layout=compact" alt="ayush9852" /></p>
+[![Ayush's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush9852&theme=github-compact)](https://github.com/Ayush9852/github-readme-activity-graph)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush9852&show_icons=true&locale=en" alt="ayush9852" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush9852&" alt="ayush9852" /></p>
+You can call me <b>Ayush</b>. I'm a <b><i>full-stack developer</i></b> passionate about building scalable applications with <b>Spring Boot</b> and <b>React</b>.
+<br />
+
+I love creating clean, maintainable code and continuously learning modern tech. 
+<br />
+
+My go-to trio is ☕ <b>Coffee</b>, 💻 <b>Code</b>, and 🐱 <b>My Cat</b> — my unofficial debugging assistant. 
+<br />
+
+I'm an open-source enthusiast, currently focused on enhancing my skills and building real-world projects.
+
+<!-- Profile Links -->
+<a href="https://www.linkedin.com/in/ayush9852/"><img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/plasticine/100/linkedin.png" /></a>
+<a href="mailto:k.ayush9835@gmail.com">
+	<img align="left" alt="GMail" width="30px" src="https://img.icons8.com/plasticine/100/gmail-new.png" />
+</a>
+<img align="left" alt="GitHub followers" src="https://img.shields.io/github/followers/Ayush9852?color=green&logo=github&style=for-the-badge">
+<br /><br /><br />
+
+## 📅 Work
+
+🍍 I’m currently working on:  
+**Netflix Clone** – Full-stack app with Spring Boot & React  
+→ [View Project](https://github.com/Ayush9852/netflix-clone)
+
+👯 I’m looking to collaborate on:  
+**Real-time Collaboration App** – Chat, video call, synced watch, WebSockets, Redis  
+→ [Collaborate with me](https://github.com/Ayush9852)
+
+🤝 I’m looking for help with:  
+**AI Influencer** – Generative AI-based virtual persona project  
+→ [Let’s Connect](https://github.com/Ayush9852)
+
+🌱 I’m currently learning:  
+**Full-Stack Development** (Spring Boot, React, Redis, WebSockets)
+
+💬 Ask me about:  
+**Spring Boot**, **React**, **GSAP**, and anything full-stack
+
+📫 Reach me at:  
+**k.ayush9835@gmail.com**
+
+👨‍💻 My Projects:  
+🌐 [My Portfolio](https://ayush9852.github.io)
+
+📄 Know about my experience:  
+📎 [Resume](https://ayush9852.github.io/Resume/resume2025.pdf)
+
+⚡ Fun fact:  
+My cat is my debugging partner 😺
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ayush9852&theme=dracula" alt="GitHub stats">
+
+<img src="https://codestats-readme.avior.me/api/top-langs/?username=Ayush9852&theme=chartreuse-dark" alt="Ayush's code stats">
+
+<br />
+<br />
+
+<!-- Signature Image -->
+<img src="https://i.ibb.co/yXbbP0P/signature-akshaw-design-v1.png" width="250px">

@@ -1,6 +1,6 @@
 <!--### Hi there 👋 Ayush Kumar here!-->
 <p align="center">
-	<img src="https://i.ibb.co/pR6MWXX/github-banner-animated-v2.jpg" />
+	<img src="" />
 </p>
 
 <div align="center">

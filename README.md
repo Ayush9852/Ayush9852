@@ -72,4 +72,4 @@ My cat is my debugging partner 😺
 <br />
 
 <!-- Signature Image -->
-<img src="https://i.ibb.co/yXbbP0P/signature-akshaw-design-v1.png" width="250px">
+<img src="">

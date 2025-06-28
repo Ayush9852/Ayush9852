@@ -40,10 +40,6 @@ I'm an open-source enthusiast, currently focused on enhancing my skills and buil
 **Real-time Collaboration App** – Chat, video call, synced watch, WebSockets, Redis  
 → [Collaborate with me](https://github.com/Ayush9852)
 
-🤝 I’m looking for help with:  
-**AI Influencer** – Generative AI-based virtual persona project  
-→ [Let’s Connect](https://github.com/Ayush9852)
-
 🌱 I’m currently learning:  
 **Full-Stack Development** (Spring Boot, React, Redis, WebSockets)
 
